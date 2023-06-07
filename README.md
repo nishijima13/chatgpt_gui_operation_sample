@@ -35,4 +35,4 @@ $ export OPENAI_API_KEY=(Your OPENAI API key)
 
 ## Result
 
-[result/result.mp4](result/result.mp4)
+![result/result.gif](result/result.gif)
