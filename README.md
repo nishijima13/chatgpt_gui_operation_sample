@@ -30,7 +30,7 @@ $ export OPENAI_API_KEY=(Your OPENAI API key)
     Contents of processing performed by the program.  
     1. Wait for a instruction to ChatGPT.
     1. For instructions to the Notepad app, move the mouse over the Notepad app.
-    1. Performs a right mouse click.
+    1. Performs a left mouse click.
     1. Write the sentences created by ChatGPT to the notepad application.
 
 ## Result
